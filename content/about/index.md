@@ -8,8 +8,9 @@ skills:
   - SQL & MySQL & Redis
   - TDD & PHP Unit 
   - Javascript & ES6
-  - React & Next Js
-  - JUnit & Jest & Cypress
+  - React & Next.js & Gatsby
+  - GraphQL & REST API
+  - Jest & Cypress
   - Selenium Tests
   - WordPress Multi Sites Admin 
   - Linux server admin 
@@ -17,12 +18,15 @@ skills:
   - Cloud computing AWS 
   - CDN & Caching
   - Serverless
+  - Vercel & Netlify
   - Docker Compose
   - Github Actions (CI/CD)
   - JMeter Performance Tests
-  - UML OOP & Design patterns
-  - Java & C#
+  - UML OOP, Design patterns, DRY, SOLID principles
+  - Html, CSS, SASS, Git, SVN, Bash, Java, C#, C++, VB.Net, Delphi
+  - SOAP & WebServices
   - Agile & Best pratices
+  - Support & Training 
   - SEO & Affliate Marketing
 showInProjects: false
 ---
